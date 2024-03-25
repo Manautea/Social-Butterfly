@@ -1,5 +1,5 @@
 # Social-Butterfly
-PLP final project
+
 With the changing seasons, it's hard to find pollen. 
 Worry not Social Butterfly, we've got a blooming garden waiting for you. 
 So the next time, you're planning to leave your cocoon, you can freely spread your wings.
